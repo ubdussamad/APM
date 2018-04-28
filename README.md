@@ -1,8 +1,6 @@
 ///////////////////////////////////////////
+**Advanced Pointing Mechanisms**
 
-       **Advanced Pointing Mechanisms**
-
-///////////////////////////////////////////
 
 The goal is to trace subtle movements of calibrated retina to imppliment a pointing device.
 
