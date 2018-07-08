@@ -9,10 +9,10 @@ Perfomance is a big issue as the proposed device will be using web cam and thus 
 
 Realized issues with the idea up-til now:
 	
-	*Web-cam resolution.
-	*Frame-rate
-	*Low light performance
-	*Is this thing even possible?
-	*The whole delay created due to this.
-	*Eye Blinks
-	*Click Inputs
+	* Web-cam resolution.
+	* Frame-rate
+	* Low light performance
+	* Is this thing even possible?
+	* The whole delay created due to this.
+	* Eye Blinks
+	* Click Inputs
